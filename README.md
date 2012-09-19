@@ -48,6 +48,7 @@ WINONA
 XAVIER
 YVONNE
 ZENOBIA
+
 Write a program that tasks your team of programmers to the wiretap victims in a way that minimizes the total time necessary to crack all the wiretaps. Your program should run on t\
 he command line, and take as input a file containing the first names of all the wiretap victims (newline separated). The output should be the total time cost (in hours) of decodin\
 g all the wiretaps listed in the input file, in addition to your configuration of programmers and wiretaps. Your program should be able to handle both upper and lower case, be rob\
